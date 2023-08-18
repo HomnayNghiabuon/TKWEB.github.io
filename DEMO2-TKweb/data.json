@@ -1,0 +1,140 @@
+[
+    {"mssv":"2254574634",
+    "pas":"5644574534",
+    "name":"Nguyễn Ích Nghĩa",
+    "portrait":"./portrait/man-icon.png",
+    "email":"2251052072nghia@ou.edu.vn",
+    "dob":"01/04/2004",
+    "pob":"Thừa Thiên Huế",
+    "sx":true,
+    "class":"DH22IT03",
+    "maj":"Công nghệ thông tin",
+    "ts":"Chính quy",
+    "diem":[
+        [ 
+            {"Ma_MH":"GLAW1315","Nhom":"IT2203","MH":"Pháp luật đại cương","STC":3,"QT":8.0,"Diem_thi":9.0},
+            {"Ma_MH":"MATH1313","Nhom":"IT2203","MH":"Đại số tuyến tính","STC":3,"QT":3.0,"Diem_thi":7.0},
+            {"Ma_MH":"MEETING3","Nhom":"IT2203","MH":"Sinh hoạt ngoại khóa","STC":0,"QT":null,"Diem_thi":null},
+            {"Ma_MH":"ITEC1406","Nhom":"IT2203","MH":"Thiết kế Web","STC":3,"QT":6.5,"Diem_thi":5.5}
+        ],
+        [ 
+            {"Ma_MH":"ITEC2207","Nhom":"IT2203","MH":"Cơ sở lập trình","STC":2,"QT":6.5,"Diem_thi":8.0},
+            {"Ma_MH":"ITEC1207","Nhom":"IT2203","MH":"Kiến trúc máy tính","STC":2,"QT":9.0,"Diem_thi":9.0},
+            {"Ma_MH":"ITEC3203","Nhom":"IT2203","MH":"Mạng máy tính","STC":2,"QT":5.5,"Diem_thi": 8.0},
+            {"Ma_MH":"ITEC3301","Nhom":"IT2203","MH":"Kỹ thuật lập trình","STC":3,"QT":8.0,"Diem_thi" :7.0}
+
+        ],
+        [ 
+            {"Ma_MH":"CENG2301","Nhom":"IT2203","MH":"Cấu trúc dữ liệu và giải thuật","STC":3,"QT":7.5,"Diem_thi":9.0},
+            {"Ma_MH":"CENG3201","Nhom":"IT2203","MH":"Hệ điều hành","STC":2,"QT":null,"Diem_thi":null},
+            {"Ma_MH":"CENG1220","Nhom":"IT2203","MH":"Triết học Mác-Lênin","STC":3,"QT":null,"Diem_thi":6.8},
+            {"Ma_MH":"MEETING3","Nhom":"IT2203","MH":"Sinh hoạt ngoại khóa","STC":0,"QT":null,"Diem_thi":null}
+        ]
+    ]
+    },
+    {"mssv":"2257721936",
+    "pas":"2330692334",
+    "name":"Trần Quang Phục",
+    "portrait":"./portrait/man-icon.png",
+    "email":"2251052072nghia@ou.edu.vn",
+    "dob":"04/06/2004",
+    "pob":"Quảng Nam",
+    "sx":true,
+    "class":"DH22IT03",
+    "maj":"Công nghệ thông tin",
+    "ts":"Chính quy",
+    "diem":[
+        [ 
+            {"Ma_MH":"GLAW1315","Nhom":"IT2203","MH":"Pháp luật đại cương","STC":3,"QT":3.0,"Diem_thi":1.0},
+            {"Ma_MH":"ITEC1341","Nhom":"IT2203","MH":"Tiếng Anh Nâng cao 3 (K2019)","STC":3,"QT":4.6,"Diem_thi":7.5},
+            {"Ma_MH":"MEETING3","Nhom":"IT2203","MH":"Sinh hoạt ngoại khóa","STC":0,"QT":null,"Diem_thi":null},
+            {"Ma_MH":"ITEC1406","Nhom":"IT2203","MH":"Thiết kế Web","STC":3,"QT":6.1,"Diem_thi":3.5}
+        ],
+        [ 
+            {"Ma_MH":"ITEC2207","Nhom":"IT2203","MH":"Kiến trúc máy tính","STC":2,"QT":1.5,"Diem_thi":2.0},
+            {"Ma_MH":"POLI1207","Nhom":"IT2203","MH":"Cơ sở lập trình","STC":2,"QT":4.6,"Diem_thi":2.8},
+            {"Ma_MH":"ITEC3203","Nhom":"IT2203","MH":"Kỹ thuật lập trình","STC":2,"QT":5.2,"Diem_thi": 8.3},
+            {"Ma_MH":"ITEC3301","Nhom":"IT2203","MH":"Nhập môn tin học","STC":3,"QT":7.5,"Diem_thi" :7.0}
+
+        ],
+        [ 
+            {"Ma_MH":"ITEC2301","Nhom":"IT2203","MH":"Cấu trúc dữ liệu và giải thuật","STC":3,"QT":8.0,"Diem_thi":9.5},
+            {"Ma_MH":"ITEC3201","Nhom":"IT2203","MH":"Cơ sở dữ liệu","STC":2,"QT":8.5,"Diem_thi":7.0},
+            {"Ma_MH":"ITEC1220","Nhom":"IT2203","MH":"Hệ điều hành","STC":3,"QT":5.5,"Diem_thi":7.8},
+            {"Ma_MH":"MEETING3","Nhom":"IT2203","MH":"Sinh hoạt ngoại khóa","STC":0,"QT":null,"Diem_thi":null}
+        ],
+        [ 
+            {"Ma_MH":"CENG2301","Nhom":"IT2203","MH":"Cấu trúc dữ liệu và giải thuật","STC":3,"QT":6.5,"Diem_thi":6.0},
+            {"Ma_MH":"CENG3201","Nhom":"IT2203","MH":"Hệ điều hành","STC":2,"QT":9.0,"Diem_thi":9.3},
+            {"Ma_MH":"CENG1220","Nhom":"IT2203","MH":"Triết học Mác-Lênin","STC":3,"QT":6.5,"Diem_thi":6.8},
+            {"Ma_MH":"MEETING3","Nhom":"IT2203","MH":"Sinh hoạt ngoại khóa","STC":0,"QT":null,"Diem_thi":null}
+        ]
+    ]
+    },
+    {"mssv":"2259206593",
+    "pas":"6165119810",
+    "name":"Nguyễn Văn Tùng",
+    "portrait":"./portrait/man-icon.png",
+    "email":"2259206593tung@ou.edu.vn",
+    "dob":"03/05/2004",
+    "pob":"Đà Nẵng",
+    "sx":true,
+    "class":"DH22JL02",
+    "maj":"Ngôn ngữ Nhật",
+    "ts":"Chính quy",
+    "diem":[
+        [ 
+            {"Ma_MH":"JAPA3202","Nhom":"JL2202","MH":"Thực hành văn bản tiếng Việt","STC":3,"QT":3.0,"Diem_thi":4.0},
+            {"Ma_MH":"JAPA3213","Nhom":"JL2202","MH":"Triết học Mác - Lênin","STC":3,"QT":3.6,"Diem_thi":7.2},
+            {"Ma_MH":"MEETING3","Nhom":"JL2202","MH":"Sinh hoạt ngoại khóa","STC":0,"QT":null,"Diem_thi":null},
+            {"Ma_MH":"JAPA3146","Nhom":"JL2202","MH":"Tiếng Nhật tổng hợp I","STC":3,"QT":6.5,"Diem_thi":3.5}
+        ],
+        [ 
+            {"Ma_MH":"JAPA2207","Nhom":"JL2202","MH":"Kỹ năng viết 2","STC":2,"QT":6.5,"Diem_thi":4.0},
+            {"Ma_MH":"POLI1207","Nhom":"JL2202","MH":"Lịch sử Đảng cộng sản Việt Nam","STC":2,"QT":8.0,"Diem_thi":9.0},
+            {"Ma_MH":"JAPA3203","Nhom":"JL2202","MH":"Kanji – Đọc hiểu II","STC":2,"QT":6.5,"Diem_thi": 8.0},
+            {"Ma_MH":"JAPA3301","Nhom":"JL2202","MH":"Ngữ pháp học tiếng nhật 2","STC":3,"QT":7.0,"Diem_thi" :8.5}
+
+        ],
+        [ 
+            {"Ma_MH":"GLAW1315","Nhom":"JL2202","MH":"Pháp luật đại cương","STC":3,"QT":4.5,"Diem_thi":6.8},
+            {"Ma_MH":"JAPA1319","Nhom":"JL2202","MH":"Nghe - Nói II","STC":2,"QT":9.5,"Diem_thi":8.8},
+            {"Ma_MH":"JAPA3214","Nhom":"JL2202","MH":"Tiếng Nhật tổng hợp II","STC":3,"QT":6.2,"Diem_thi":6.8},
+            {"Ma_MH":"MEETING3","Nhom":"JL2202","MH":"Ngữ âm học Tiếng Nhật","STC":0,"QT":null,"Diem_thi":null}
+        ]
+    ]
+    },
+    {"mssv":"2251522044",
+    "pas":"9532024855",
+    "name":"Trịnh Tiến Dũng",
+    "portrait":"./portrait/man-icon.png",
+    "email":"2251522044dung@ou.edu.vn",
+    "dob":"02/02/2004",
+    "pob":"Bình Định",
+    "sx":true,
+    "class":"DH22CE01",
+    "maj":"Công nghệ kĩ thuật công trình xây dựng",
+    "ts":"Chính quy",
+    "diem":[
+        [ 
+            {"Ma_MH":"CENG1202","Nhom":"CE2201","MH":"Nhận thức ngành (TT NT ngành)","STC":3,"QT":8.0,"Diem_thi":9.0},
+            {"Ma_MH":"COMP1307","Nhom":"CE2201","MH":"Tin học đại cương","STC":3,"QT":3.0,"Diem_thi":7.0},
+            {"Ma_MH":"MEETING3","Nhom":"CE2201","MH":"Sinh hoạt ngoại khóa","STC":0,"QT":null,"Diem_thi":null},
+            {"Ma_MH":"MATH1314","Nhom":"CE2201","MH":"Giải tích","STC":3,"QT":6.5,"Diem_thi":5.5}
+        ],
+        [ 
+            {"Ma_MH":"TECH1301","Nhom":"CE2201","MH":"Vẽ kỹ thuật xây dựng","STC":2,"QT":6.5,"Diem_thi":8.0},
+            {"Ma_MH":"CENG1203","Nhom":"CE2201","MH":"Cơ chất lỏng","STC":2,"QT":9.0,"Diem_thi":9.0},
+            {"Ma_MH":"CENG1204","Nhom":"CE2201","MH":"Thí nghiệm Cơ chất lỏng","STC":2,"QT":5.5,"Diem_thi": 8.0},
+            {"Ma_MH":"POLI1304","Nhom":"CE2201","MH":"Triết học Mác - Lênin","STC":3,"QT":7.0,"Diem_thi" :7.0}
+
+        ],
+        [ 
+            {"Ma_MH":"CENG2301","Nhom":"CE2201","MH":"Sức bền vật liệu 1","STC":3,"QT":6.5,"Diem_thi":6.0},
+            {"Ma_MH":"CENG3201","Nhom":"CE2201","MH":"Nguyên lý cấu tạo kiến trúc","STC":2,"QT":9.0,"Diem_thi":9.3},
+            {"Ma_MH":"CENG1220","Nhom":"CE2201","MH":"Địa chất công trình + thực tập","STC":3,"QT":6.5,"Diem_thi":6.8},
+            {"Ma_MH":"MEETING3","Nhom":"CE2201","MH":"Sinh hoạt ngoại khóa","STC":0,"QT":null,"Diem_thi":null}
+        ]
+    ]
+    }
+]

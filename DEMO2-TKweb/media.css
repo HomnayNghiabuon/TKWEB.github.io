@@ -1,0 +1,78 @@
+.fa-angle-down{
+  margin-left:5px ;
+}
+#toggle{
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  padding: .3rem;
+  text-align: right;
+  cursor: pointer;
+  display: none;
+}
+@media screen and (max-width: 767px) {
+  #toggle{
+    display: block;
+  }
+    div#header ul li.image{
+      position: relative;
+  }
+  .imgheader{
+    width: 100%;
+  }
+  div#header{
+    padding-bottom: 2rem;
+  }
+  li.title{
+    position: relative;
+  }
+  div#header ul{
+    display: block;
+  }
+  li.title h1{
+    text-align: center;
+  }
+  .right{
+    float: left;
+  }
+  .left{
+    flex-direction: column;
+  }
+  .nav{
+    flex-direction: column;
+    display: none;
+  }
+  .mySlides #hinh{
+    height: 200px;
+  }
+  .content-left{
+    float: none;
+    width: 100%;
+  }
+  .content-right{
+    float: none;
+    width: 100%;
+  }
+  .content-clearfix{
+    overflow: visible;
+  }
+  ul.submenu1{
+    position: relative;
+  }
+  ul.submenu2{
+    position: relative;
+  }
+  ul.left li:hover .submenu1{
+    display: block;
+    top: 0;
+    z-index: 100;
+  }
+  ul.left li:hover .submenu2{
+    display: block;
+    top: 0;
+    z-index: 100;
+  }
+  h1.tieude{
+    position: relative;
+  }
+  }
